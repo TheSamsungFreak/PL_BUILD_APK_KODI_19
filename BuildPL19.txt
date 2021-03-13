@@ -1,6 +1,6 @@
 id="plugin.program.freakPL19.zip"
-version="2.0.2"
-zip="    "
+version="2.0.0"
+zip="https://bit.ly/3ldu3U1"
 
 name="Transformers"
 version="2.0"
