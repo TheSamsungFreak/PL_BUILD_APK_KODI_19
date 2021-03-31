@@ -1,4 +1,4 @@
-id="plugin.program.freakPL19.zip"
+id="plugin.program.freakPL19"
 version="2.0.0"
 zip="https://bit.ly/3ldu3U1"
 
@@ -12,6 +12,6 @@ theme="http://"
 icon="https://ia802907.us.archive.org/26/items/icon_20200314/icon.png"
 fanart="https://ia802900.us.archive.org/22/items/fanart_20200314/fanart.jpg"
 preview="https://"
-adult="yes"
+adult="no"
 info="http://"
 description="TheSamsungFreak V1.0.1"
